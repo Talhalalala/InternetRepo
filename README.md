@@ -1,6 +1,8 @@
 # API documentation
 
-An API to store and interact with data about people and houses in your neighbourhood.
+Documentation API to store and interact with data about people and houses in your neighbourhood.
+Written for the API defined in an exercise in LAP2 of futureproof's Conway cohort
+([see that here](https://github.com/getfutureproof/fp_study_notes_API_design))
 
 ## Request types
 
